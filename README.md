@@ -11,3 +11,6 @@
 |     7     |                  Практика 3.  Сиамские сети. Контрастивная функция потерь                  |   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FcUc3GpDDXN7SjDt9KzT_6uYBPzkNEc9?usp=sharing)   |
 |     8     |                          Практика 4.  Сиамские сети. Triplet loss                          |   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/192C_ZSl7yy6qaNJX5Bki2NH33gbwZ_t8?usp=sharing)   |
 |     9     |                   Практика 5.  Извлечение эмбеддингов из классификатора                    |   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YEQ-SGn4lV3vkNA15W51x1xwCTy1eT6B?usp=sharing)   |
+|    10     |                             Лекция 4.  Сжатие нейронных сетей                              |   [Презентация](https://classroom.google.com/w/NTk4MTcwMjk1NDk1/tc/NjA0NTQyMDYyNDAx)   |
+|    12     |                             Практика 6.  Прореживание/pruning                              |   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11i2TTTYAJq1cB0IiLeUmQBoVrASbPsBJ?usp=sharing)   |
+
