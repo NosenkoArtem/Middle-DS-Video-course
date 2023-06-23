@@ -14,5 +14,6 @@
 |    10     |                             Лекция 4.  Сжатие нейронных сетей                              |   [Презентация](https://classroom.google.com/w/NTk4MTcwMjk1NDk1/tc/NjA0NTQyMDYyNDAx)   |
 |    11     |                             Практика 6.  Прореживание/pruning                              |   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11i2TTTYAJq1cB0IiLeUmQBoVrASbPsBJ?usp=sharing)   |
 |    12     |                         Практика 7.  Прунинг object_detection (hw)                         |   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11i2TTTYAJq1cB0IiLeUmQBoVrASbPsBJ?usp=sharing)   |
+|    13     |                      Лекция 5.   Построение и тестирование пайплайна                       |   [Презентация](https://classroom.google.com/w/NTk4MTcwMjk1NDk1/tc/NjA1NzEyOTMxNjU3)   |
 
 
